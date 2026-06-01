@@ -1,0 +1,16 @@
+{
+  "name": "file-folder",
+  "version": "1.0.0",
+  "description": "You are given three files:",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test playwright_tests.spec.ts --reporter=html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
