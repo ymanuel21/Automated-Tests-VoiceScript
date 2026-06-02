@@ -45,6 +45,7 @@ To execute the test script:
    ```bash
    npx playwright show-report
    ```
+   *(This command will automatically spin up a local web server, typically at `http://localhost:9323`, and open the beautiful HTML test results directly in your web browser!)*
 
 ## Version Control Best Practices
 
