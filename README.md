@@ -25,7 +25,7 @@ Review the transcript and metadata and produce:
 
 Some issues are obvious and some are subtle. We are interested in your ability to reason about transcript quality, metadata consistency, speaker attribution, timestamps, API behavior, and workflow state transitions.
 
-## How to Run the Automated Tests (Bonus)
+## How to Run the Automated Tests
 
 An automated testing suite using Playwright has been provided to programmatically detect the issues outlined in the QA response. 
 
