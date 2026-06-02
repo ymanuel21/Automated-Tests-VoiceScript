@@ -1,5 +1,7 @@
 # QA Engineer Assessment — Response
 
+**GitHub Repository:** [Automated-Tests-VoiceScript](https://github.com/ymanuel21/Automated-Tests-VoiceScript)
+
 **Candidate:** Yusack Manuel
 **Date:** 2026-06-01
 **Case:** Moonlight Plaza Associates v. Cancun Farms
