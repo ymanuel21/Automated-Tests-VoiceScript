@@ -45,3 +45,10 @@ To execute the test script:
    ```bash
    npx playwright show-report
    ```
+
+## Version Control Best Practices
+
+Please note that following standard software engineering best practices, a `.gitignore` file is included in this repository. The following directories are intentionally excluded from version control:
+
+* **`node_modules/`**: Contains large external dependency files for Playwright. This folder is generated locally when you run `npm install` and should not be tracked in Git.
+* **`playwright-report/` & `test-results/`**: These folders contain the HTML test reports and trace files. Because these are output artifacts that are generated brand new every time the tests run, they are excluded from source control.
