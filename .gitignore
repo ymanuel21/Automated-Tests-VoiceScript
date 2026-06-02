@@ -1,4 +1,7 @@
 node_modules/
 playwright-report/
 test-results/
-.DS_Store
+QA_Assessment_Explanation.md
+QA_Assessment_Explanation.pdf
+Playwright_Tests_Explanation.md
+Playwright_Tests_Explanation.pdf
