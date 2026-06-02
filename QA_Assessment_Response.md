@@ -8,7 +8,29 @@
 
 ---
 
-## Task 1 — Identify Issues (15 Found)
+## Executive Summary
+
+This document presents a comprehensive Quality Assurance evaluation of the AI transcript processing system. In this assessment, I have:
+- Identified **20 specific data integrity and transcription issues** across the raw and processed files.
+- Designed **10 programmatic test cases** to automatically detect these failures.
+- Outlined robust **API and Workflow testing strategies**, covering edge cases and invalid state transitions.
+- Provided a **fully functional Playwright automation suite** (available in the linked GitHub repository) that actively executes these tests and generates an HTML report.
+
+## Contents
+
+- [Executive Summary](#executive-summary)
+- [Task 1 — Identify Issues (20 Found)](#task-1--identify-issues-20-found)
+- [Task 2 — Test Cases (10 Designed)](#task-2--test-cases-10-designed)
+- [Task 3 — API Testing Plan](#task-3--api-testing-plan)
+- [Task 4 — Workflow Testing](#task-4--workflow-testing)
+- [Task 5 — Automation Approach](#task-5--automation-approach)
+- [Bonus — Scoring System & Programmatic Detection](#bonus--scoring-system--programmatic-detection)
+- [Summary](#summary)
+- [Playwright Tests Explanation](#playwright-tests-explanation)
+
+---
+
+## Task 1 — Identify Issues (20 Found)
 
 ### Category A: Transcription Errors (ASR Misrecognitions)
 
